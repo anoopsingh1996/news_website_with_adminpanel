@@ -1,0 +1,39 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.main{
+	background:#d4d4d4;
+	margin:0px auto;
+	width:800px;
+}
+#mainmenu{
+	background:#a40000;
+	text-align:center;
+}
+#mainmenu li a{
+	text-decoration:none;
+	color:white;
+}
+#mainmenu li{
+	display:inline-block;
+	padding:10px 15px;
+}
+.content{
+	padding:10px;
+	min-height:570px;
+	height:auto;
+
+}
+.title{
+	text-align:center;
+	color:#1e6a9b;
+}
+.footer{
+	background:#a40000;
+	padding:10px;
+}
+.footer p{
+	color:white;
+	text-align:center;
+}
