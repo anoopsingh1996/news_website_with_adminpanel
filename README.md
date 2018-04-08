@@ -9,6 +9,6 @@
 
 ![oie_vwe7qbzsipkj](https://user-images.githubusercontent.com/9657488/38461466-54522f3a-3aee-11e8-90c6-b0a8c8112211.png)
 
-###Editor Panel
+### Editor Panel
 
 ![oie_nffcldrjhe1j](https://user-images.githubusercontent.com/9657488/38461473-775f1a10-3aee-11e8-957d-610c38dc4178.png)
